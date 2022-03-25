@@ -11,9 +11,9 @@ This is a password protected notes taker which also increase the security standa
 The purpose of the system is to help you keep and manage the time for your incoming events.
 
 # Existing Feature and New System
-*Old System :- There was no password protected Diary system.
+*Old System :- There was no password protected based notes taking.
 
-*New System :- Password protected Diary system is built.
+*New System :- Password protected notes taker is built.
 
 # SWOT ANALYSIS
 SWOT Analysis is a simple tool which is used to analyze what are strength,weakness,opportunities and threats of the system.
