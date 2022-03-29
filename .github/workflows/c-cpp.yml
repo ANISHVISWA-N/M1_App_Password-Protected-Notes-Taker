@@ -1,4 +1,4 @@
-name:Build CI - windows
+name:Build CI
 
 on:
   push:
@@ -9,10 +9,10 @@ on:
 jobs:
   build:
 
-    runs-on: windows
+    runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
     - name: Build 
-      run: Password Protected Notes Taker -c 3_Implementation
+      run: Password Protected Notes Taker -C 3_Implementation
     
